@@ -2,6 +2,50 @@
     {
         "mercado": "Amazon",
         "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/517tByBD2lL._AC_SY355_.jpg",
+        "nome": "Caneta Apresentador De Slides Laser Controle Apontador Multimídia Passador De Slides Ministrar Aulas Palestra Congresso Power Point",
+        "preco": "R$ 44,01",
+        "parcelas": "",
+        "link": "https://amzn.to/4bYgMr9",
+        "avaliacao": "Avaliação: 4,4 de 5,0",
+        "porcentagem": "10% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/61QDMO6bWGL._AC_SY450_.jpg",
+        "nome": "Anvazise Extensor De Monitor De Laptop,15.6 inch Monitor portátil Duas Telas 1920 × 1080 FHD IPS Monitor USB C/HDMI portátil, suporte de capa incluído, Plug and Play,para Laptop notebook",
+        "preco": "R$ 764,10",
+        "parcelas": "Em até 10x R$ 76,41 sem juros",
+        "link": "https://amzn.to/3WCoO4D",
+        "avaliacao": "Avaliação: 4,5 de 5,0",
+        "porcentagem": "10% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/512TVM7OHAL._AC_SX425_.jpg",
+        "nome": "Ventisol Ventilador de Parede Oscilante, 3 Pás Premium, Preto, 60cm, Bivolt",
+        "preco": "R$ 218,69",
+        "parcelas": "Em até 4x R$ 54,68 sem juros",
+        "link": "https://amzn.to/4dkHxHD",
+        "avaliacao": "Avaliação: 4,3 de 5,0",
+        "porcentagem": "22% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/71nlVCVd8cL._AC_SX425_.jpg",
+        "nome": "JOYFOX Barraca de Camping para 3-4 Pessoas Automática com 2 Portas e 4 Janelas, Tenda de Acampamento Pop-up, Automática, Resistente à água, Portátil, Leve, Praia, Mochilão, Caminhada",
+        "preco": "R$ 419,00",
+        "parcelas": "Em até 8x R$ 52,41 sem juros",
+        "link": "https://amzn.to/4dkHwU5",
+        "avaliacao": "Avaliação: 4,7 de 5,0",
+        "porcentagem": "40% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
         "imagem": "https://m.media-amazon.com/images/I/41BjCflNQDL._AC_SX522_.jpg",
         "nome": "Apple iPhone 15 (128 GB) — Verde",
         "preco": "R$ 4.769,11",
