@@ -214,13 +214,76 @@ footer {
     width: auto;  /* Mantém a proporção da imagem */
 }
 
+.anuncios {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.anuncio {
+    flex: 1;
+    background-color: #eaeaea;
+    border: 1px solid #ddd;
+    height: 150px;
+    margin: 0 10px;
+}
+
+.anuncio:first-child {
+    margin-left: 0;
+}
+
+.anuncio:last-child {
+    margin-right: 0;
+}
+
 /* Estilos para dispositivos móveis */
 @media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .logo {
+        font-size: 24px;
+        font-weight: bold;
+        color: #5a52ff;
+        margin-bottom: 10px;
+    }
+
+    .logo-img {
+        height: 100px; /* Ajuste conforme necessário */
+        width: auto;
+        margin-bottom: 20px;
+    }
+
+    .search-bar {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .search-bar input {
+        width: 80%; /* Ajuste conforme necessário */
+        font-size: 20px;
+    }
+
+    .search-bar button {
+        font-size: 20px;
+    }
+
     .promocao-card {
         width: 100%;
     }
 
-    .search-bar input {
-        width: 150px;
+    .anuncios {
+        flex-direction: column;
+    }
+
+    .anuncio {
+        margin: 10px 0;
+        height: auto; /* Altura ajustável para dispositivos móveis */
+        aspect-ratio: 1 / 1; /* Mantém o quadrado */
     }
 }
