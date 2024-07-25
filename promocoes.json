@@ -1,0 +1,79 @@
+[
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/41BjCflNQDL._AC_SX522_.jpg",
+        "nome": "Apple iPhone 15 (128 GB) — Verde",
+        "preco": "R$ 4.769,11",
+        "parcelas": "ou R$ 5.299,00 em até 12x de R$ 441,62 sem juros",
+        "link": "https://amzn.to/3Sl6s5y",
+        "avaliacao": "Avaliação: 4,8 de 5,0",
+        "porcentagem": "34% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/61im8ob29oL._AC_SY355_.jpg",
+        "nome": "Smart TV Neo QLED 55\" 8K UHD Samsung QN55QN700B - Alexa built-in, Mini LED",
+        "preco": "R$ 5.099,00",
+        "parcelas": "Em até 10x R$ 509,90 sem juros",
+        "link": "https://amzn.to/3LCY4L6\n",
+        "avaliacao": "Avaliação: 4,2 de 5,0",
+        "porcentagem": "19% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/81OXEWnOS0L._AC_SX342_.jpg",
+        "nome": "Hering, Camiseta Manga Longa Regular World Masculino",
+        "preco": "R$ 39,99",
+        "parcelas": "",
+        "link": "https://amzn.to/3SorLTQ",
+        "avaliacao": "Avaliação: 4,6 de 5,0",
+        "porcentagem": ""
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/7197OjibTeL._AC_SX425_.jpg",
+        "nome": "Bicicleta Caloi Vulcan HDS Branca | Suspensão Dianteira e Freio a Disco Hidráulico, Aro 29, Tamanho 13, 24 Velocidades",
+        "preco": "R$ 1.199,90",
+        "parcelas": "Em até 10x R$ 119,99 sem juros",
+        "link": "https://amzn.to/3WzjjDU",
+        "avaliacao": "Avaliação: 5,0 de 5,0",
+        "porcentagem": "40% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/617-HLllfZL._AC_SX425_.jpg",
+        "nome": "Echo Dot 5ª geração | O Echo Dot com o melhor som já lançado | Cor Preta",
+        "preco": "R$ 361,77",
+        "parcelas": "ou R$ 401,97 em até 12x de R$ 33,58 sem juros",
+        "link": "https://amzn.to/3LAZtC1",
+        "avaliacao": "Avaliação: 4,8 de 5,0",
+        "porcentagem": "16% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/61NBFYr6KmL._AC_SY450_.jpg",
+        "nome": "Sanduicheira Minigrill Gourmet 220V com 750W Chapa Dupla e com Revestimento Antiaderente Preta Multilaser - CE044",
+        "preco": "R$ 59,90",
+        "parcelas": "Em até 2x R$ 52,50 sem juros",
+        "link": "https://amzn.to/3Wiz1ll",
+        "avaliacao": "Avaliação: 4,6 de 5,0",
+        "porcentagem": "48% de desconto"
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "25/07/2024",
+        "imagem": "https://m.media-amazon.com/images/I/61nsXip9JiL._AC_SX425_.jpg",
+        "nome": "KIT ESMERILHADEIRA/LIXADEIRA 600W E FURADEIRA/PARAFUSADEIRA 800W COM MALETA 25 PEÇAS OCULOS DE PROTEÇAO E DISCO DE CORTE (110, Volts)",
+        "preco": "R$ 269,10",
+        "parcelas": "Em até 5x R$ 53,82 sem juros",
+        "link": "https://amzn.to/46n1z1F",
+        "avaliacao": "Avaliação: 4,6 de 5,0",
+        "porcentagem": "10% de desconto"
+    }
+]
