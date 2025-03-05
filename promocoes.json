@@ -2,6 +2,17 @@
     {
         "mercado": "Amazon",
         "tempo": "04/03/2025",
+        "imagem": "https://m.media-amazon.com/images/I/817WfcVZakL._SY342_.jpg",
+        "nome": "Duna (Crônicas de Duna Livro 1)",
+        "preco": "R$ 60,51",
+        "parcelas": "",
+        "link": "https://amzn.to/3F6P6px",
+        "avaliacao": "Avaliação: 4,8 de 5 estrelas",
+        "porcentagem": ""
+    },
+    {
+        "mercado": "Amazon",
+        "tempo": "04/03/2025",
         "imagem": "https://m.media-amazon.com/images/I/41o0-yZuinL._AC_SX522_.jpg",
         "nome": "Lavadora Semiautomática Britânia BLR04 7 Programas 20,6KG 510W 127V",
         "preco": "R$ 494,10",
